@@ -99,7 +99,7 @@ atualizações, promoções e interações entre os usuários.
 
 Acompanhe o KdefySMS nas redes sociais.
 
-- 📸 **Instagram:** [Acessar perfil](COLE_AQUI_O_LINK_DO_INSTAGRAM)
+- 📸 **Instagram:** [Acessar perfil](https://instagram.com/kdefysms)
 - 🎵 **TikTok:** [Acessar perfil](COLE_AQUI_O_LINK_DO_TIKTOK)
 - 🐦 **Twitter/X:** [Acessar perfil](COLE_AQUI_O_LINK_DO_TWITTER)
 - 💬 **Canal Telegram:** [Acessar comunidade](https://t.me/KdefySmsCanal)
