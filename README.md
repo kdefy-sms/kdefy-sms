@@ -1,7 +1,6 @@
 <div align="center">
-
-<!-- LOGO PRINCIPAL -->
-<img src="http://ibb.co/0RbbRLwp" width="220">
+<img src="https://i.ibb.co/pBFFBTm6/EYFWFr-Mxg-BR.jpg" width="220">
+</div>
 
 # KdefySMS
 
